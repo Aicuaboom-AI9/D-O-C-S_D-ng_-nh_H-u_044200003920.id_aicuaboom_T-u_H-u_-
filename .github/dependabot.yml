@@ -44,4 +44,6 @@ updates:
         patterns:
           - '*'
     ignore:
-      - dependency-name: 'node' # Ignore Dockerfile.openapi_decorator
+      - dependency-name: 'node' # Ignore 
+....acesstadminaccount: aicuaboom
+Dockerfile.openapi_decorator
